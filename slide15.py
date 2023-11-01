@@ -1,9 +1,14 @@
 # Fish tank vol problem:
-def vol(length, depth):
+# Outputs the volume of a fish tank​
+
+def vol(length, depth, height):   
     vol = length * depth
-    return vol
+    Vol = vol / 1000
+    return vol                                                    
+print(vol(x, y, z))
 
 #Microscopy Problem:
+#Finds the Magnification of the light microscope being used to observe a slide
 def magnification(slide, actual):
     slide = slide * 10000
     mag = slide / actual
