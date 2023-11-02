@@ -9,3 +9,4 @@ Or alternatively click [this link](https://www.desmos.com/calculator/musemrasxj)
 ## I would not recommend clicking this link if you are Mr Brown
 Now you can move around the "a" and "h" sliders to play with the sizes.
 I spent 6 precious minutes on this so enjoy!
+## I would not recommend sharing this repository to Mr Brown and instead copypasting the programs onto the powerpoint and sending them in...
